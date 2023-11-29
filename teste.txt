@@ -1,0 +1,1 @@
+Arquivo com texto legível, que será criptografado com o ransomware, e posteriormente descriptografado.
